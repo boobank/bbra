@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.6a51accc.chunk.js": "/static/js/0.6a51accc.chunk.js",
+    "main.css": "/static/css/main.b6533798.chunk.css",
+    "main.js": "/static/js/main.ec3c3e73.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.66c53b1c.js",
+    "static/js/3.a222f4b1.chunk.js": "/static/js/3.a222f4b1.chunk.js",
+    "static/js/4.3dd6e8ae.chunk.js": "/static/js/4.3dd6e8ae.chunk.js",
+    "static/js/5.87541c3b.chunk.js": "/static/js/5.87541c3b.chunk.js",
+    "static/js/6.d34bb556.chunk.js": "/static/js/6.d34bb556.chunk.js",
+    "static/js/7.95cbbb05.chunk.js": "/static/js/7.95cbbb05.chunk.js",
+    "static/js/8.ec30a1a2.chunk.js": "/static/js/8.ec30a1a2.chunk.js",
+    "static/js/9.1064580e.chunk.js": "/static/js/9.1064580e.chunk.js",
+    "static/js/10.8dfc8a1c.chunk.js": "/static/js/10.8dfc8a1c.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.68872ca919173028f0b3196da1b275c8.js": "/precache-manifest.68872ca919173028f0b3196da1b275c8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.a222f4b1.chunk.js.LICENSE.txt": "/static/js/3.a222f4b1.chunk.js.LICENSE.txt",
+    "static/js/4.3dd6e8ae.chunk.js.LICENSE.txt": "/static/js/4.3dd6e8ae.chunk.js.LICENSE.txt",
+    "static/js/5.87541c3b.chunk.js.LICENSE.txt": "/static/js/5.87541c3b.chunk.js.LICENSE.txt",
+    "static/js/6.d34bb556.chunk.js.LICENSE.txt": "/static/js/6.d34bb556.chunk.js.LICENSE.txt",
+    "static/js/8.ec30a1a2.chunk.js.LICENSE.txt": "/static/js/8.ec30a1a2.chunk.js.LICENSE.txt",
+    "static/media/Coinflip.png": "/static/media/Coinflip.41357bf0.png",
+    "static/media/EctoLotto.png": "/static/media/EctoLotto.a7a6d441.png",
+    "static/media/LottoLoot.png": "/static/media/LottoLoot.8a537821.png",
+    "static/media/boo.png": "/static/media/boo.3e21703e.png",
+    "static/media/boo.banker.png": "/static/media/boo.banker.b5618010.png",
+    "static/media/metamask-fox.svg": "/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/pool.bbra-eth.png": "/static/media/pool.bbra-eth.f7ca071f.png",
+    "static/media/pool.boo-ecto.png": "/static/media/pool.boo-ecto.58e4df74.png",
+    "static/media/pool.boo-eth.png": "/static/media/pool.boo-eth.d7c78cd1.png",
+    "static/media/pool.boo-rot.png": "/static/media/pool.boo-rot.764d32f9.png",
+    "static/media/pool.boo-shroom.png": "/static/media/pool.boo-shroom.00754e22.png",
+    "static/media/pool.ecto-eth.png": "/static/media/pool.ecto-eth.fe58c565.png",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66c53b1c.js",
+    "static/js/3.a222f4b1.chunk.js",
+    "static/css/main.b6533798.chunk.css",
+    "static/js/main.ec3c3e73.chunk.js"
+  ]
+}
